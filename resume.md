@@ -1,4 +1,4 @@
-# GitHub Teacher
+# GitHub Teacher SESRGE
 
 Charting the knowledge of the Internet, just like Galileo charted the stars.
 
